@@ -1,0 +1,22 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+*.kdtmp
+
+# Build artifacts
+build/
+cmake-build*/
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.user
