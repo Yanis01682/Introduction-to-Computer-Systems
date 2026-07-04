@@ -6,7 +6,7 @@ Course-related files for Introduction to Computer Systems, Fall 2025.
 
 - `lectures/`: lecture slides.
 - `homework/`: homework handouts, submitted homework, and deduplicated solution references.
-- `labs/`: lab handouts, materials, and submitted files.
+- `labs/`: lab handouts, materials, and submitted files, including `lab01-attack-lab/`.
 - `problem-sets/`: exercises and solutions.
 - `exams/`: past exams.
 - `reference/`: cheatsheets and review notes.
@@ -19,7 +19,7 @@ Course-related files for Introduction to Computer Systems, Fall 2025.
 
 - `lectures/`：课程课件。
 - `homework/`：作业题面、个人提交和去重后的参考答案。
-- `labs/`：实验讲义、资料和提交文件。
+- `labs/`：实验讲义、资料和提交文件，包括 `lab01-attack-lab/`。
 - `problem-sets/`：习题与答案。
 - `exams/`：往年考试资料。
 - `reference/`：速查表与复习笔记。
